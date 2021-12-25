@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-transform: capitalize;
+    text-align: center;
+    padding: 20px;
+    color: rgb(0, 255, 221);
+}
+body{
+   
+    background-image: url(Santa.jpg);
+    background-repeat: no-repeat;
+    background-size: 360px 360px;
+}
+h4{
+    text-transform: capitalize;
+    text-align: center;
+    padding: 300px 0 0 0;
+    color: rgb(7, 7, 7);
+}
+    
